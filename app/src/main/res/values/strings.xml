@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Source Code</string>
+    <string name="getcode">Get Source Code</string>
+    <string name="exUrl">http://www.yandex.ru</string>
+    <string name="yes">OK</string>
+    <string name="message_wrong_url">Sorry, unable to read the URL</string>
+</resources>
